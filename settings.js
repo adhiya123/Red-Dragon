@@ -19,42 +19,42 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is Adhiya🔥
+My Creator is Geeth Adhithya 😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94763447426'] //Owner number in aive msg
+global.premium = ['+94763447426'] //Owner Number info
+global.ownernomer = '+94763447426' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = '😎Geeth_Adhithya' //Owner Name
+global.botname = ' ☬BOT_Adhiya࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://youtu.be/9VW_HMx80b4' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬Adhiya࿐' //Bot Pacage Name
+global.author = '😎Adhiya❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_Adhiya.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
+    success: 'හරී මචන් ✅',
+    admin: 'උබ ඇඩ්මින් කියලද හිතන් ඉන්නේ 😹',
     botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    owner: 'උබ ඇඩ්මින් කියලද හිතන් ඉන්නේ 😹',
     group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
+    private: 'ඉන්බොක්ස් විතරයි වැඩ!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: 'ටිකක් ඉන්නකෝ 👉👈...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
